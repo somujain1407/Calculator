@@ -1,0 +1,38 @@
+.maindiv {
+  width: 600px;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: gray
+}
+
+
+.btn {
+  width: 90px;
+  height: 50px;
+  border-radius: 70px;
+  border: none;
+}
+
+.btn-cont {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.search {
+  width: 98%;
+  height: 70px;
+  border-radius: 10px;
+  border: none;
+}
+
+.m1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
